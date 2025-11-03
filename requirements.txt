@@ -117,4 +117,4 @@ widgetsnbextension==4.0.14
 prophet
 pyarrow
 tqdm
-torch
+tensorflow-cpu
