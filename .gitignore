@@ -1,2 +1,3 @@
 venv/
 data/household_power_consumption.txt
+data/household_power_cleaned_minute.csv
