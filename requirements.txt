@@ -118,3 +118,6 @@ prophet
 pyarrow
 tqdm
 tensorflow-cpu
+xgboost
+lightgbm
+catboost
