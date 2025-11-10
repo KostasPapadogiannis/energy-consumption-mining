@@ -1,0 +1,12 @@
+{
+  "val_best_params": {
+    "C": 0.003,
+    "class_weight": "balanced",
+    "method": "sigmoid"
+  },
+  "val_best_threshold": 0.4,
+  "val_best_accuracy": 0.7819905213270142,
+  "test_accuracy": 0.7746478873239436,
+  "test_f1": 0.6923076923076923,
+  "test_roc_auc": 0.8449074074074074
+}
