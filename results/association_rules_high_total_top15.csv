@@ -1,0 +1,16 @@
+antecedents_str,consequents_str,support,confidence,lift
+High_Afternoon ∧ High_Peak,High_Daily_total_power ∧ Sub1_LMH_High,0.11347517730496454,0.6153846153846154,4.022414671421294
+High_Afternoon ∧ High_Peak,High_Daily_total_power ∧ Sub2_LMH_High,0.12360688956433637,0.6703296703296704,3.8918552036199103
+High_Afternoon ∧ High_Night ∧ High_Peak,High_Daily_total_power,0.10739614994934144,0.9636363636363635,3.8506440927493557
+High_Afternoon ∧ High_Peak ∧ Sub3_LMH_High,High_Daily_total_power,0.1276595744680851,0.9473684210526315,3.785638184530151
+High_Afternoon ∧ High_Morning,High_Daily_total_power ∧ Sub3_LMH_High,0.11651469098277609,0.696969696969697,3.77972027972028
+High_Afternoon ∧ High_Peak ∧ Sub2_LMH_High,High_Daily_total_power,0.12360688956433637,0.9457364341085271,3.779116843988325
+High_Afternoon ∧ High_Peak,High_Daily_total_power ∧ Sub3_LMH_High,0.1276595744680851,0.6923076923076923,3.7544378698224854
+High_Afternoon ∧ High_Peak ∧ Sub1_LMH_High,High_Daily_total_power,0.11347517730496454,0.9180327868852459,3.6684144156102745
+High_Peak ∧ Sub2_LMH_High ∧ Sub3_LMH_High,High_Daily_total_power,0.10131712259371833,0.9174311926605504,3.666010474315641
+High_Afternoon ∧ High_Peak,High_Daily_total_power,0.16818642350557245,0.9120879120879122,3.644658984739957
+High_Afternoon ∧ High_Night ∧ Sub3_LMH_High,High_Daily_total_power,0.10131712259371833,0.9009009009009008,3.5999562315351787
+High_Morning ∧ High_Peak ∧ Sub3_LMH_High,High_Daily_total_power,0.1033434650455927,0.8571428571428572,3.4251012145748994
+High_Afternoon ∧ High_Night,High_Daily_total_power ∧ Sub3_LMH_High,0.10131712259371833,0.6211180124223602,3.3683707596751074
+High_Afternoon ∧ Sub2_LMH_High ∧ Sub3_LMH_High,High_Daily_total_power,0.11550151975683891,0.8382352941176471,3.3495475113122173
+High_Peak ∧ Sub3_LMH_High,High_Afternoon ∧ High_Daily_total_power,0.1276595744680851,0.6961325966850828,3.303283042923926

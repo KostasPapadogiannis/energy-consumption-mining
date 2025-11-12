@@ -1,0 +1,16 @@
+antecedents,consequents,support,confidence,n_antecedent,n_both
+"('High_Peak', 'High_Afternoon')","('High_Daily_total_power', 'Sub1_LMH_High')",0.051643192488262914,0.5238095238095238,21,11
+"('High_Peak', 'High_Afternoon')","('High_Daily_total_power', 'Sub2_LMH_High')",0.03286384976525822,0.3333333333333333,21,7
+"('High_Peak', 'High_Night', 'High_Afternoon')","('High_Daily_total_power',)",0.046948356807511735,0.8333333333333334,12,10
+"('High_Peak', 'High_Afternoon', 'Sub3_LMH_High')","('High_Daily_total_power',)",0.056338028169014086,0.7058823529411765,17,12
+"('High_Morning', 'High_Afternoon')","('High_Daily_total_power', 'Sub3_LMH_High')",0.03286384976525822,0.4117647058823529,17,7
+"('High_Peak', 'Sub2_LMH_High', 'High_Afternoon')","('High_Daily_total_power',)",0.03286384976525822,0.7,10,7
+"('High_Peak', 'High_Afternoon')","('High_Daily_total_power', 'Sub3_LMH_High')",0.056338028169014086,0.5714285714285714,21,12
+"('High_Peak', 'High_Afternoon', 'Sub1_LMH_High')","('High_Daily_total_power',)",0.051643192488262914,0.6470588235294118,17,11
+"('High_Peak', 'Sub2_LMH_High', 'Sub3_LMH_High')","('High_Daily_total_power',)",0.04225352112676056,0.9,10,9
+"('High_Peak', 'High_Afternoon')","('High_Daily_total_power',)",0.06572769953051644,0.6666666666666666,21,14
+"('High_Night', 'High_Afternoon', 'Sub3_LMH_High')","('High_Daily_total_power',)",0.07042253521126761,0.75,20,15
+"('High_Peak', 'High_Morning', 'Sub3_LMH_High')","('High_Daily_total_power',)",0.028169014084507043,0.75,8,6
+"('High_Night', 'High_Afternoon')","('High_Daily_total_power', 'Sub3_LMH_High')",0.07042253521126761,0.5769230769230769,26,15
+"('Sub2_LMH_High', 'High_Afternoon', 'Sub3_LMH_High')","('High_Daily_total_power',)",0.051643192488262914,0.6875,16,11
+"('High_Peak', 'Sub3_LMH_High')","('High_Daily_total_power', 'High_Afternoon')",0.056338028169014086,0.46153846153846156,26,12
