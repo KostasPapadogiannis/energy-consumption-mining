@@ -10,4 +10,4 @@ venv/
 
 # Ignore results contents but keep folder
 /results/*
-!/results/.gitkeep
+
