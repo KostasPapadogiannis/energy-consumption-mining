@@ -1,8 +1,13 @@
 venv/
-data/household_power_consumption.txt
-data/household_power_cleaned_minute.csv
-data/*
+#data/household_power_consumption.txt
+#data/household_power_cleaned_minute.csv
+
 
 # Ignore data contents but keep folder
 /data/*
-!/data/.gitkeep
+
+/results/*
+
+# Ignore results contents but keep folder
+/results/*
+!/results/.gitkeep
