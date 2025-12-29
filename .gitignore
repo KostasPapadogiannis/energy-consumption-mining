@@ -2,3 +2,7 @@ venv/
 data/household_power_consumption.txt
 data/household_power_cleaned_minute.csv
 data/*
+
+# Ignore data contents but keep folder
+/data/*
+!/data/.gitkeep
